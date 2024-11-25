@@ -14,8 +14,3 @@ The goal of this project is to demonstrate the computational capabilities of the
 - [Collaboration](#сотрудничество)
 - [License](#лицензия)
 
-## Описание
-
-Расскажите подробнее о проекте. Что он делает? Какие задачи решает? Почему он может быть полезен?
-
-## Установка
